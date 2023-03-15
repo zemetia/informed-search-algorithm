@@ -1,0 +1,10 @@
+[
+    {
+        "city": "city1",
+        "heuristic": 15
+    },
+    {
+        "city": "city2",
+        "heuristic": 10
+    }
+]
