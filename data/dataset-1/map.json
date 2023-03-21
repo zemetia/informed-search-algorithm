@@ -1,7 +1,117 @@
 [
     {
-        "city1": "city1", 
-        "city2": "city2",
-        "distance": 10
+        "city1": "Arad",
+        "city2": "Zerind",
+        "distance": 75
+    },
+    {
+        "city1": "Arad",
+        "city2": "Sibiu",
+        "distance": 140
+    },
+    {
+        "city1": "Arad",
+        "city2": "Timisoara",
+        "distance": 118
+    },
+    {
+        "city1": "Zerind",
+        "city2": "Oradea",
+        "distance": 71
+    },
+    {
+        "city1": "Oradea",
+        "city2": "Sibiu",
+        "distance": 151
+    },
+    {
+        "city1": "Timisoara",
+        "city2": "Lugoj",
+        "distance": 111
+    },
+    {
+        "city1": "Sibiu",
+        "city2": "Fagaras",
+        "distance": 99
+    },
+    {
+        "city1": "Sibiu",
+        "city2": "Rimnicu Vilcea",
+        "distance": 80
+    },
+    {
+        "city1": "Lugoj",
+        "city2": "Mehadia",
+        "distance": 70
+    },
+    {
+        "city1": "Fagaras",
+        "city2": "Bucharest",
+        "distance": 211
+    },
+    {
+        "city1": "Rimnicu Vilcea",
+        "city2": "Pitesti",
+        "distance": 97
+    },
+    {
+        "city1": "Rimnicu Vilcea",
+        "city2": "Craiova",
+        "distance": 146
+    },
+    {
+        "city1": "Mehadia",
+        "city2": "Dobreta",
+        "distance": 75
+    },
+    {
+        "city1": "Bucharest",
+        "city2": "Pitesti",
+        "distance": 101
+    },
+    {
+        "city1": "Bucharest",
+        "city2": "Urziceni",
+        "distance": 85
+    },
+    {
+        "city1": "Bucharest",
+        "city2": "Giurgiu",
+        "distance": 90
+    },
+    {
+        "city1": "Pitesti",
+        "city2": "Craiova",
+        "distance": 138
+    },
+    {
+        "city1": "Craiova",
+        "city2": "Dobreta",
+        "distance": 120
+    },
+    {
+        "city1": "Urziceni",
+        "city2": "Hirsova",
+        "distance": 98
+    },
+    {
+        "city1": "Urziceni",
+        "city2": "Vaslui",
+        "distance": 142
+    },
+    {
+        "city1": "Hirsova",
+        "city2": "Eforie",
+        "distance": 86
+    },
+    {
+        "city1": "Vaslui",
+        "city2": "Iasi",
+        "distance": 92
+    },
+    {
+        "city1": "Iasi",
+        "city2": "Neamt",
+        "distance": 87
     }
 ]
